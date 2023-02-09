@@ -29,9 +29,9 @@
   <!-- Header -->
   <header class="masthead d-flex">
     <div class="container text-center my-auto">
-      <h1 class="mb-1">RUBY via CapRover</h1>
+      <h1 class="mb-1">Neat-o.</h1>
       <h3 class="mb-5">
-        <em>Free and Open Source PaaS</em>
+        <em>CD testing</em>
       </h3>
       <a class="btn btn-primary btn-xl" target="_blank" href="https://caprover.com">Find Out More</a>
 
