@@ -31,7 +31,7 @@
     <div class="container text-center my-auto">
       <h1 class="mb-1">Neat-o.</h1>
       <h3 class="mb-5">
-        <em>CD testing</em>
+        <em>CD test</em>
       </h3>
 
       <div style="padding: 30px;white-space: pre">
