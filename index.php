@@ -8,7 +8,7 @@
   <meta name="description" content="">
   <meta name="author" content="">
 
-  <title>XML Website via CapRover</title>
+  <title>Bill Test....</title>
 
   <!-- Bootstrap Core CSS -->
   <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -33,7 +33,6 @@
       <h3 class="mb-5">
         <em>CD testing</em>
       </h3>
-      <a class="btn btn-primary btn-xl" target="_blank" href="https://caprover.com">Find Out More</a>
 
       <div style="padding: 30px;white-space: pre">
         <?php phpinfo(); ?>
