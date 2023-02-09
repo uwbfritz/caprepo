@@ -29,7 +29,7 @@
   <!-- Header -->
   <header class="masthead d-flex">
     <div class="container text-center my-auto">
-      <h1 class="mb-1">Cool huh?</h1>
+      <h1 class="mb-1">Cool</h1>
       <h3 class="mb-5">
         <em>CD test</em>
       </h3>
